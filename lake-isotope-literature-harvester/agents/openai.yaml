@@ -1,0 +1,5 @@
+interface:
+  display_name: "Lake Isotope Literature Harvester"
+  short_description: "Find and extract modern lake isotope papers."
+  default_prompt: "Use $lake-isotope-literature-harvester to search and extract modern lake carbonate isotope literature into review-ready tables."
+
